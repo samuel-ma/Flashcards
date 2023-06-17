@@ -7,7 +7,7 @@ function App() {
     const [current, setCurrent] = useState(null);
 
     const handleClick = (id) => {
-        setCurrent(id);
+        setCurrent(id !== current ? id : null);
     }
 
     return (
