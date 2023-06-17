@@ -28,5 +28,35 @@
         "id": 6,
         "question": "How do we give components memory?",
         "answer": "useState"
+    },
+    {
+        "id": 7,
+        "question": "What is the foundation you need to build a React application?",
+        "answer": "Javascript"
+    },
+    {
+        "id": 8,
+        "question": "What language is React based on?",
+        "answer": "Javascript"
+    },
+    {
+        "id": 9,
+        "question": "What are the building blocks of React apps?",
+        "answer": "Components"
+    },
+    {
+        "id": 10,
+        "question": "What's the name of the syntax we use to describe a UI in React?",
+        "answer": "JSX"
+    },
+    {
+        "id": 11,
+        "question": "How to pass data from parent to child components?",
+        "answer": "Props"
+    },
+    {
+        "id": 12,
+        "question": "How do we give components memory?",
+        "answer": "useState"
     }
 ]
