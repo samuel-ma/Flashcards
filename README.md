@@ -1,6 +1,4 @@
 ![flashcards](https://github.com/samuel-ma/Flashcards/assets/82509653/91427609-44ab-45aa-b033-dad36f0c2894)
-![flashcards2](https://github.com/samuel-ma/Flashcards/assets/82509653/83d15fd7-3f12-4a6d-b984-8a4d70fddb29)
-
 
 # Flashcards
 This project is a simple flash cards app built with React. You can create and study flash cards, and the app will track your progress as you study.
@@ -34,3 +32,5 @@ Contributions are welcome! Please open an issue or a pull request if you have an
 License:
 
 This project is licensed, your free to use it as you like😋
+
+![flashcards2](https://github.com/samuel-ma/Flashcards/assets/82509653/83d15fd7-3f12-4a6d-b984-8a4d70fddb29)
