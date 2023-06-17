@@ -1,0 +1,78 @@
+:root {
+    color: rgba(255, 255, 255, 0.87);
+    --black: #242424;
+    --white: #fafafa;
+    --blue: #1a9fc43a;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--white);
+    font-family: "Poppins";
+}
+
+header {
+    text-align: center;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.205);
+}
+
+h1 {
+    margin: 0;
+    padding: 20px;
+    font-size: 40px;
+}
+
+span {
+    /* color: #eb3349; */
+    color: black;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    padding: 30px;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #e65c00;
+    background: -webkit-linear-gradient(to right, #f9d423, #e65c00);
+    background: linear-gradient(to right, #f9d423, #e65c00);
+    color: var(--white);
+    border-radius: 10px;
+    padding: 20%;
+    text-align: center;
+    font-size: smaller;
+    cursor: pointer;
+    position: relative;
+}
+
+.card2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #da22ff;
+    background: -webkit-linear-gradient(to right, #9733ee, #da22ff);
+    background: linear-gradient(to right, #9733ee, #da22ff);
+    color: var(--white);
+    border-radius: 10px;
+    padding: 20%;
+    text-align: center;
+    font-size: smaller;
+    cursor: pointer;
+    position: relative;
+}
+
+.round {
+    padding: 40%;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255);
+    opacity: 5%;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
